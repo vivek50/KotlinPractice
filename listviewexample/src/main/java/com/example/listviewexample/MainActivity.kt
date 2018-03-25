@@ -2,6 +2,7 @@ package com.example.listviewexample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -13,6 +14,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         init()
+        listView.setOnItemClickListener{ adapterView, view1, position, long ->
+            Toast.makeText(this@MainActivity, list[position].title
+                    , Toast.LENGTH_SHORT).show()
+        }
     }
 
     private fun init() {
