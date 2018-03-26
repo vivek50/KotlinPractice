@@ -1,0 +1,15 @@
+{
+  "name" : "Abc xyz",
+  "age" : 23,
+  "isIndian" : true,
+  "state" : "Gujarat",
+  "cities" : ["Rajkot","Ahmedabad","Vadodara","Surat","Gandhinagar","Jamnagar","Bhavanagar"],
+  "professionInfo" : {
+    "designation" : "Android Developer",
+    "companyName" : "DEF Solutions"
+  },
+  "contactInfo" : {
+    "emailId" : "abc50@gmail.com",
+    "mobileNo" : "+919999999999"
+  }
+}
