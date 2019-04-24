@@ -1,1 +1,1 @@
-include ':app', ':intents', ':listviewexample', ':gsonexample'
+include ':app', ':intents', ':listviewexample', ':gsonexample', ':contactlist'
