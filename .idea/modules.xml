@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KotlinPractice.iml" filepath="$PROJECT_DIR$/KotlinPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KotlinPractices.iml" filepath="$PROJECT_DIR$/.idea/KotlinPractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gsonexample/gsonexample.iml" filepath="$PROJECT_DIR$/gsonexample/gsonexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gsonexample/gsonexample.iml" filepath="$PROJECT_DIR$/gsonexample/gsonexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewexample/listviewexample.iml" filepath="$PROJECT_DIR$/listviewexample/listviewexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewexample/listviewexample.iml" filepath="$PROJECT_DIR$/listviewexample/listviewexample.iml" />
     </modules>
   </component>
